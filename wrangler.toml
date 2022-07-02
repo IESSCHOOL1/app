@@ -1,4 +1,4 @@
-name = "cloudflare-worker-cra"
+name = "a1cre.iesschool-edu-vn.workers.dev"
 type = "webpack"
 workers_dev = true
 route = ""
